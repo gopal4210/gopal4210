@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Gopal Chaurasia
 
-<!--
-**gopal4210/gopal4210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Backend Developer | Data Structures & Algorithms in Java | Open Source Enthusiast | API Explorer
 
-Here are some ideas to get you started:
+I’m passionate about building scalable backend systems, learning full-stack development, and contributing to open-source projects. Currently, I'm focused on mastering:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Backend Development (Node.js, Express, Python)
+- 📡 API Design & Testing
+- 🌐 Full-Stack Basics (HTML, CSS, JS)
+
+### 🌱 I’m currently learning
+- Git & GitHub workflows
+- RESTful APIs and CRUD operations
+- Open-source contribution through fellowships like Keploy
+- Database integration (MongoDB, PostgreSQL)
+- Data Structures in Java
+
+### 📫 How to reach me
+- Email: gopal.engrg@gmail.com
+- LinkedIn:  www.linkedin.com/in/chaurasiagopal
+
