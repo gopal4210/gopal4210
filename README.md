@@ -11,7 +11,6 @@ I’m passionate about building scalable backend systems, learning full-stack de
 ### 🌱 I’m currently learning
 - Git & GitHub workflows
 - RESTful APIs and CRUD operations
-- Open-source contribution through fellowships like Keploy
 - Database integration (MongoDB)
 - Data Structures in Java
 
